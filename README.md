@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>Olá, meu nome é Caio, sou formado em geologia e possuo mestrado em "geoquímica, geofísica e evolução crustal", e neste momento estou realizano transição de carreira para a área de T.I. (especificamente a área de dados). A escolha pela área de dados se deu principalmente por já trabalhar analisando dados geofísicos e geoquímicos em R, e foi uma escolha que considero bem 'natural'. Neste github irei colocando meus projetos ao longo dessa trajetória.</p>
 
 ## O que estou fazendo atualmente?
-<p>Atualmente estou realizando um curso de engenharia de dados na ADA Tech, já coloquei o projeto final do primeiro módulo e estou reformulando o projeto do módulo de banco de dados para colocar aqui.</p>
+<p>Finalizei o curso de engenharia de dados Santaner Coders pela ADA Tech e agora estou matriculado em uma graduação de Análise e Desenvolvimento de Sistemas.</p>
 
 
 ## Tecnologias:
