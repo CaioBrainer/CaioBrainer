@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>Olá, meu nome é Caio, sou formado em geologia e possuo mestrado em "geoquímica, geofísica e evolução crustal", e neste momento estou realizano transição de carreira para a área de T.I. (especificamente a área de dados). A escolha pela área de dados se deu principalmente por já trabalhar analisando dados geofísicos e geoquímicos em R, e foi uma escolha que considero bem 'natural'. Neste github irei colocando meus projetos ao longo dessa trajetória.</p>
 
 ## O que estou fazendo atualmente?
-<p>Atualmente estou cursando graduação em análise e desenvolvimento de sistemas e finalizando um doutorado em geociências. Além disse tenho feito cursos e projetos envolvendo análises em SQL e utilização de ferramentas em nuvem para processos de ETL e ELT.</p>
+<p>Atualmente estou cursando graduação em análise e desenvolvimento de sistemas e finalizando um doutorado em geociências. Além disso tenho feito cursos e projetos envolvendo análises em SQL e utilização de ferramentas em nuvem para processos de ETL e ELT.</p>
 
 
 ## Tecnologias:
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## Estatísticas:      
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioBrainer&theme=dracula&hide=HTML,Fortran,c,CUDA,cmake)](https://github.com/caiobrainer/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioBrainer&theme=dracula&hide=HTML,Fortran,c,CUDA,cmake,jupyter%20notebook)](https://github.com/caiobrainer/github-readme-stats)
 
 </div>
          
